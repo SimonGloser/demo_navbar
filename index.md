@@ -1,1 +1,10 @@
-Firat der Penis.It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+#Anleitung
+Grundlage war dieses [YoutTube-Tutorial](https://www.youtube.com/watch?v=RLc8NB2JyxE)
+
+##Änderungen
+Es mussten allerdings Änderungen vorgenommen werden, da cer Quellcode aus dem Tutorial nicht funktionierte.
+###JavaScript
+```javascript
+const activeAnchor = document.querySelector("[data-page="+ className + "]");
+
+
